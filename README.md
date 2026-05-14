@@ -1,7 +1,6 @@
 # 🎵 MikaBox: The AI-Powered "Safety First" Smart Speaker for Kids
 **A "Gemma 4 Good" Hackathon Submission**
 
-![MikaBox Thumbnail](/Users/I743656/.gemini/antigravity/brain/8beb943b-8246-4eea-8504-b058d0e232a9/mikabox_thumbnail_v2_1778789821933.png)
 
 MikaBox is a 100% open-source, privacy-first, edge-AI powered smart speaker and storytelling companion for children. Built as a smarter, safer alternative to commercial speakers (like the Toniebox or Amazon Echo), it uses **Gemma 4** to ensure your child's data never leaves the house while actively monitoring their digital and physical wellbeing.
 
