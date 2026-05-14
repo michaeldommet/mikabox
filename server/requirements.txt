@@ -1,0 +1,35 @@
+# MikaBox Server — Python Dependencies
+# ======================================
+# Install on home server:
+#   pip install -r requirements.txt
+
+# Web framework
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+
+# Database
+sqlalchemy[asyncio]>=2.0.0
+aiosqlite>=0.20.0
+
+# Authentication
+pyjwt>=2.9.0
+bcrypt>=4.0.0
+
+# Validation
+pydantic[email]>=2.9.0
+
+# File handling
+python-multipart>=0.0.9
+
+# AI / ML (optional — install for full AI features)
+# litert-lm>=1.0.0
+# openai-whisper>=20240930
+# piper-tts>=1.0.0
+sentence-transformers>=2.2.2
+numpy>=1.24.0
+
+# Utilities
+python-dotenv>=1.0.0
+websockets>=12.0
+duckduckgo-search>=6.0.0
+langdetect>=1.0.9

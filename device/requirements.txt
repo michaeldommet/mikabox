@@ -1,0 +1,32 @@
+# MikaBox Device — Python Dependencies
+# =====================================
+# Install on Raspberry Pi 4:
+#   pip install -r requirements.txt
+
+# Audio playback
+python-vlc
+
+# NFC reader (PN532)
+adafruit-circuitpython-pn532
+adafruit-blinka
+
+# LED ring (NeoPixel)
+adafruit-circuitpython-neopixel
+rpi-ws281x
+
+# Voice input
+PyAudio
+openwakeword
+
+# Server communication
+websockets
+aiohttp
+requests
+
+# Utilities
+python-dotenv
+python-vlc
+aiohttp
+litert-lm
+piper-tts
+edge-tts
