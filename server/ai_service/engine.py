@@ -11,7 +11,7 @@ This runs on your desktop/laptop/NAS — NOT on the Pi 4.
 import logging
 from dataclasses import dataclass
 from typing import Any, Optional, Literal
-from duckduckgo_search import DDGS
+from ddgs import DDGS
 
 from .config import ai_config
 
